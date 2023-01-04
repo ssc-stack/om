@@ -6,7 +6,7 @@
 1. http://localhost:8080/h2-console/
 2. jdbc url -  jdbc:h2:mem:order_management
 
-## Note: For creating resources, i have used getRequest instead of post (because without postman we can test using simple browser)
+### Note: For creating resources, i have used getRequest instead of post (because without postman we can test using simple browser)(For subscriber and   order creation)
 ## Example Endpoints
 1. http://localhost:8080/api/v1/add-customer/username/shashank - Create user by giving name ("Shashank")
 2. http://localhost:8080/api/v1/customers/discountDetail - Get All Discount Information of Customers
