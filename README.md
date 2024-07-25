@@ -1,4 +1,4 @@
-# Shashank Singh Chauhan
+# Shashank Chauhan
 
 ## Video Demo Link: https://youtu.be/881ekuJlFWk
 
